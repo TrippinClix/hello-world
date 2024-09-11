@@ -6,8 +6,9 @@ Started this journey on 19 December 2023, interested in Android and Cyber Securi
 
 # Goals
 
+- C
 - C++
-- Python
+- Rust
 - Assembly
 - Java
 - Learn Android
